@@ -1,12 +1,23 @@
 # Hi 👋, I'm Tan Wai Yang
 
+I am a Computer Science final year student and a detail-oriented team player with strong
+organizational skills. Ability to handle multiple
+projects simultaneously with a high degree of
+accuracy. Organized and dependable candidate
+successful at managing multiple priorities with a
+positive attitude. Willingness to take on added
+responsibilities to meet team goals. Hardworking
+and passionate job seeker with strong
+organizational skills and ready to help the team
+achieve company goals.
+
 ### A creative developers
 
 - 🌱 I'm currently learning **AI/ML**
 
 - 📫 How to reach me **tanwy05@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://www.waiyangtan.vip/](https://www.waiyangtan.vip/)**
+- 👨‍💻 Visit my **[Portfolio](https://www.waiyangtan.vip/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
