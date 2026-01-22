@@ -33,11 +33,7 @@ achieve company goals.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanWaiYang05&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TanWaiYang05)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=TanWaiYang05)
-
-![Snake animation](https://github.com/TanWaiYang05/TanWaiYang05/blob/output/github-contribution-grid-snake.svg)
+[![GitHub Streak](https://streak-stats.demolab.com)](https://git.io/streak-stats)
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TanWaiYang05)
 
