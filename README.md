@@ -34,4 +34,8 @@ achieve company goals.
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TanWaiYang05&theme=github_dark&bg_color=00000000
 )
 
+![HackerRank](https://hackerrank-stats.vercel.app/api?username=tanwy05)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tanwy05)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=TanWaiYang05)
